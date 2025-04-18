@@ -1,6 +1,6 @@
 # Sales-Analysis
 **TASK 7**
-#  Basic Sales Summary using SQLite and Python (Google Colab)
+
 
 This project demonstrates how to:
 - Upload and read a CSV file containing sales data
